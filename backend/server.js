@@ -5,22 +5,18 @@ require('dotenv').config();
 
 const app = express();
 
-// Middleware
+// Allowed origins
 const allowedOrigins = [
   'https://orbitask-roan.vercel.app',
+  'https://orbitask-git-main-namitas-projects-79f16caf.vercel.app',
   'http://localhost:5173',
   'http://localhost:3000'
 ];
 
+// Middleware
 app.use(cors({
   origin: function(origin, callback) {
-    // Allow requests with no origin (mobile apps, curl, Postman)
-    if (!origin) return callback(null, true);
-
-    // Allow any Vercel preview deployment for your project
-    const isVercelPreview = /^https:\/\/orbitask-.*\.vercel\.app$/.test(origin);
-
-    if (allowedOrigins.includes(origin) || isVercelPreview) {
+    if (!origin || allowedOrigins.includes(origin) || /^https:\/\/.*\.vercel\.app$/.test(origin)) {
       callback(null, true);
     } else {
       console.error('CORS blocked for origin:', origin);
