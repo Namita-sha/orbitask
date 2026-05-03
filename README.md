@@ -2,7 +2,7 @@
 
 > **Team project & task management — built for real teams, deployed for real use.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://orbitask-git-main-namitas-projects-79f16caf.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://orbitask-roan.vercel.app)
 [![Backend](https://img.shields.io/badge/Backend%20API-Render-46E3B7?style=for-the-badge&logo=render)](https://orbitask-backend-2d09.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Namita--sha/orbitask-181717?style=for-the-badge&logo=github)](https://github.com/Namita-sha/orbitask)
 [![Node](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js)](https://nodejs.org)
@@ -368,6 +368,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Built with ❤️ using React · Express · Node.js · MongoDB**
 
-[🌐 Live Demo]([https://orbitask-h4o3kiwbq-namitas-projects-79f16caf.vercel.app](https://orbitask-git-main-namitas-projects-79f16caf.vercel.app/)) &nbsp;·&nbsp; [⚙️ API](https://orbitask-backend-2d09.onrender.com) &nbsp;·&nbsp; [📂 GitHub](https://github.com/Namita-sha/orbitask)
+[🌐 Live Demo](https://orbitask-roan.vercel.app) &nbsp;·&nbsp; [⚙️ API](https://orbitask-backend-2d09.onrender.com) &nbsp;·&nbsp; [📂 GitHub](https://github.com/Namita-sha/orbitask)
 
 </div>
