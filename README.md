@@ -368,6 +368,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Built with ❤️ using React · Express · Node.js · MongoDB**
 
-[🌐 Live Demo](https://orbitask-h4o3kiwbq-namitas-projects-79f16caf.vercel.app) &nbsp;·&nbsp; [⚙️ API](https://orbitask-backend-2d09.onrender.com) &nbsp;·&nbsp; [📂 GitHub](https://github.com/Namita-sha/orbitask)
+[🌐 Live Demo]([https://orbitask-h4o3kiwbq-namitas-projects-79f16caf.vercel.app](https://orbitask-git-main-namitas-projects-79f16caf.vercel.app/)) &nbsp;·&nbsp; [⚙️ API](https://orbitask-backend-2d09.onrender.com) &nbsp;·&nbsp; [📂 GitHub](https://github.com/Namita-sha/orbitask)
 
 </div>
