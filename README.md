@@ -14,7 +14,7 @@
 
 | Service | URL |
 |---------|-----|
-| 🖥️ Frontend (Vercel) | https://orbitask-h4o3kiwbq-namitas-projects-79f16caf.vercel.app |
+| 🖥️ Frontend (Vercel) | https://orbitask-git-main-namitas-projects-79f16caf.vercel.app |
 | ⚙️ Backend API (Render) | https://orbitask-backend-2d09.onrender.com |
 | 📂 GitHub Repository | https://github.com/Namita-sha/orbitask |
 
@@ -270,7 +270,7 @@ Open your browser at **http://localhost:5173** 🎉
 MONGO_URI     = mongodb+srv://...your atlas uri.../orbitask
 JWT_SECRET    = orbitask_super_secret_jwt_key_2024
 NODE_ENV      = production
-FRONTEND_URL  = https://orbitask-git-main-namitas-projects-79f16caf.vercel.app)
+FRONTEND_URL  = https://orbitask-git-main-namitas-projects-79f16caf.vercel.app
 ```
 
 ### Frontend → Vercel
@@ -343,7 +343,7 @@ feat: build My Tasks table page with status and overdue filters
 feat: build Admin-only Team page
 feat: apply cosmic gradient theme — blue purple pink design system
 fix: add vercel.json SPA rewrite rules for frontend routing
-fix: update CORS to support multiple origins for deployment
+fix: update CORS to support all Vercel preview URLs for deployment
 chore: add environment variable configs for Render and Vercel
 docs: add complete README with live URLs and setup guide
 ```
